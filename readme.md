@@ -39,3 +39,6 @@ by Free League Games. Thanks guys, it's a magical game.
 Logo is used with permission.*
 
 ![The 'Forged in the Dark' logo](forged_in_the_dark_logo.png)
+
+All rights reserved, Sean Moran-Richards/Flying Grizzly 2018. (I'll probs be
+more permissive once I've gotten further with it!)
