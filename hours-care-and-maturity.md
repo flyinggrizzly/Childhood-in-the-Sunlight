@@ -55,7 +55,8 @@ next Adventure with 2 Hours already marked, and mark a **Care**
 At the end of an adventure, if you haven't cleared your **Idle Hours** track
 from going home, do so.
 
-Leave any marks in your **Midnight Hours** track until you do a chore to earn
+Leave any marks in your **Midnight Hours** track until you [do a
+chore](chores.md) to earn
 your caregivers' trust again.
 
 ## Cares
