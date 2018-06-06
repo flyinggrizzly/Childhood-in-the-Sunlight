@@ -3,11 +3,19 @@ TODO:
 - what does the **Growing up** track do? is it even necessary?
   - should this be a more mechanical version of 'when your maturity distances
     you from your friends?'
+- enumerate the possible **Maturities**. There will be:
+  - 3 that grant an Attribute tag
+  - 3 that grant some other benefit (maybe a new special ability?)
 
 # Idle Hours and Maturity
 
-**Idle Hours** and **Maturity** replace **Stress** and **Trauma** from core
+**Hours** and **Maturity** replace **Stress** and **Trauma** from core
 _Blades_.
+
+There are two kinds of **Hours**: *Idle*, and *Midnight*. They both serve the
+same purpose, but you only start marking **Midnight Hours** when you've used all
+of your **Idle Hours**, and you *know* you're gonna be in trouble with your
+caregiver when you get home.
 
 ## Idle Hours
 
@@ -30,8 +38,8 @@ as usual. If you fill the second Hour track, your caregivers come out to get you
 and you must go home immediately (do they call the cops to find you? come get
 you themselves? is it embarrassing?)
 
-**When you get home after staying out late,** roll a number of dice equal to the
-number of Hours you stayed out late.
+**When you get home after staying out late,** roll dice equal to the
+number of unmarked Midnight Hours left on your sheet:
 
 - on a crit, you manage to convince your caregivers that it was for a good
 reason. You can go back and find your friends today, or clear a **Care**
@@ -46,12 +54,22 @@ next Adventure with 3 Hours already marked, and mark a **Care**
 
 ## Cares
 
-**Cares** are really just a 6 segment clock. When it fills, you have matured a little. Take a
+**Cares** are really just a progress clock. When it fills, you have matured a little. Take a
 **Maturity**.
+
+The clock starts as an 4-segment clock. When you've taken your first
+**Maturity**, it becomes a 6-segment clock. After the next one, it's 8 segments.
+And when that's full... that's it. You're not really a kid anymore. You can
+finish out your gang's grand adventure, but you probably won't be hanging out
+next Summer.
+
+Kids who have marked **Maturities** have fewer **Idle Hours** than their younger
+friends, but if they really need to, they can mark a **Care** instead of marking
+any **Hours** (of either kind).
 
 ## Maturity
 
-When a kid marks a **Maturity**, the permanently fill in one of their **Idle
+When a kid marks a **Maturity**, they permanently fill in one of their **Idle
 Hours**--they are growing up and have obligations that they must fulfill outside
 of their adventures with the gang.
 
