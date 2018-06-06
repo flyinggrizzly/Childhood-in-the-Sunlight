@@ -1,0 +1,6 @@
+- maybe actions should be different imaginative propensities?
+  - landscapes
+  - tools
+  - creatures
+  - disguise
+  - ability communicate imagination to friends
