@@ -18,7 +18,7 @@ one of your Attributes. These tags, like in other PbtA (and other) games, are
 traits you can call on to give
 yourself an edge in a situation. You could, for example, call on your
 *"emotional"* **maturity** to grant yourself a bonus die when rolling
-<<Consort>>, or <<Sway>>, or even <<Skirmish>> if you were in a scuffle and
+[Consort], or [Sway], or even [Skirmish] if you were in a scuffle and
 strong emotions were on the line.
 
 You can call on multiple **maturities** in one roll.
