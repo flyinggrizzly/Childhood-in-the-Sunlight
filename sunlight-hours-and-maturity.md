@@ -4,22 +4,22 @@ TODO:
   - should this be a more mechanical version of 'when your maturity distances
     you from your friends?'
 
-# Sunlight Hours and Maturity
+# Idle Hours and Maturity
 
-**Sunlight Hours** and **Maturity** replace **Stress** and **Trauma** from core
+**Idle Hours** and **Maturity** replace **Stress** and **Trauma** from core
 _Blades_.
 
-## Sunlight Hours
+## Idle Hours
 
-Sunlight Hours work a little differently than Stress, but not massively so.
+Idle Hours work a little differently than Stress, but not massively so.
 
-- a kid starts with 10 Sunlight Hours
+- a kid starts with 10 Idle Hours
 - you can mark all 10 Hours before there are consequences. Those come when you
 would mark an 11th hour
 
 You can use them in the usual ways: pushing, assisting, resisting consequences.
 
-**When you would mark a Sunlight Hour, but don't have a slot on your sheet for
+**When you would mark a Idle Hour, but don't have a slot on your sheet for
 it,**
 your kid has been called home for the day. **If you go straight home,** your kid is
 out of the action for the rest of the adventure (if it's turning out to be a
@@ -51,7 +51,7 @@ next Adventure with 3 Hours already marked, and mark a **Care**
 
 ## Maturity
 
-When a kid marks a **Maturity**, the permanently fill in one of their **Sunlight
+When a kid marks a **Maturity**, the permanently fill in one of their **Idle
 Hours**--they are growing up and have obligations that they must fulfill outside
 of their adventures with the gang.
 
