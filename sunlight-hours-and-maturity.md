@@ -21,7 +21,10 @@ yourself an edge in a situation. You could, for example, call on your
 [Consort], or [Sway], or even [Skirmish] if you were in a scuffle and
 strong emotions were on the line.
 
-You can call on multiple **maturities** in one roll.
+When resisting a consequence, the **maturity** grants you an extra die to the
+roll for an Attribute in which it lives.
+
+You can call on multiple **maturities** in one roll (except Resistance rolls).
 
 Every time you rely on one of your **maturities**, you should also fill in a
 spot on your **Growing up** track.
