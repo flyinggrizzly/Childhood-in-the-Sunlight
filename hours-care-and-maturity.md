@@ -33,24 +33,30 @@ your kid has been called home for the day. **If you go straight home,** your kid
 out of the action for the rest of the adventure (if it's turning out to be a
 very long adventure, talk with your GM about when might be a good time to come
 back in before the end). **If you stay out late with your friends,** carry on
-marking Hours on the second line of the Hour track. You can keep spending Hours
+marking Hours on the second line of the Hour track, your **Midnight Hours**. You can keep spending Hours
 as usual. If you fill the second Hour track, your caregivers come out to get you
+right away
 and you must go home immediately (do they call the cops to find you? come get
 you themselves? is it embarrassing?)
 
-**When you get home after staying out late,** roll dice equal to the
-number of unmarked Midnight Hours left on your sheet:
+**When you get home after staying out late,** clear your **Idle Hours** track,
+and if you have marked any **Midnight Hours** roll dice equal to the number
+of unmarked Midnight Hours left on your sheet:
 
 - on a crit, you manage to convince your caregivers that it was for a good
 reason. You can go back and find your friends today, or clear a **Care**
 - on a 6, you mostly convince them things are alright. You are home for the day,
-but you're not grounded or anything. If you do it again, you might get grounded
-though, so mark a **Care**
-- on a 4-5, you're in trouble, and grounded, but it's not the worst. Start the
-next adventure with 1 Hour already marked--you'll have to be home early. Mark a
-**Care**
+but you're not grounded or anything.
+- on a 4-5, you're in trouble, and grounded, but it's not the worst.
+Mark a **Care**
 - on a 1-3, you're really in trouble now! Definitely grounded. You start the
-next Adventure with 3 Hours already marked, and mark a **Care**
+next Adventure with 2 Hours already marked, and mark a **Care**
+
+At the end of an adventure, if you haven't cleared your **Idle Hours** track
+from going home, do so.
+
+Leave any marks in your **Midnight Hours** track until you do a chore to earn
+your caregivers' trust again.
 
 ## Cares
 
@@ -58,7 +64,7 @@ next Adventure with 3 Hours already marked, and mark a **Care**
 **Maturity**.
 
 The clock starts as an 4-segment clock. When you've taken your first
-**Maturity**, it becomes a 6-segment clock. After the next one, it's 8 segments.
+**Maturity**, it becomes a 6-segment clock for the next two. Before the last one, it's 8 segments.
 And when that's full... that's it. You're not really a kid anymore. You can
 finish out your gang's grand adventure, but you probably won't be hanging out
 next Summer.
