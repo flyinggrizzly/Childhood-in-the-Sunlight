@@ -17,11 +17,14 @@ Currently working with
 - Body (Embodied)
 - Heart (Compassionate)
 
-I really want to foreground the imagination aspect of things for this... so maybe we could go with
+## Action verbs
 
-- Creativity (Driven)
-- Interconnection (tbd)
-- Brains (Reasoned)
+Let's see if we can't focus the right mix of imagination, sharing, and embodiment of that imagination into an adventure by using the right verbs...
 
-this defocuses the body too much. Adventure is still important here. I'm aware that this is dancing kinda close to ableism, but even journeys of the mind, so to speak, use the model of physical travel as a metaphor (a 'journey'). And I think losing the body stuff runs too close to losing the wide open stretches of field and forest that I want people to go scrambling through.
+| Mind     | Body     | Heart   |
+| ===      |===       |===      |
+| Invent   | Scrap    | Express |
+| Research | Scramble | Dream   |
+| Argue    | Sneak    | Tantrum |
+
 
