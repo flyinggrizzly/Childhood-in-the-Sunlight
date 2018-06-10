@@ -1,8 +1,7 @@
 ---
 title: Actions and Attributes
+menu: main
 ---
-
-# Actions and Attributes
 
 | Mind       | Body       | Heart           |
 | ---        | ---        | ---             |
@@ -11,9 +10,9 @@ title: Actions and Attributes
 | Convince   | Sneak      | Tantrum         |
 | Reasoned\* | Embodied\* | Compassionate\* |
 
-\* are special adjectives gained by taking **maturities**. There is only one dot
+_\* denotes special adjectives gained by taking **maturities**. There is only one dot
 for these. They add a die to resistance rolls in their attribute, and can also
-grant a bonus die whenever it would make sense for the action being performed.
+grant a bonus die whenever it would make sense for the action being performed._
 
 ## Mind
 
