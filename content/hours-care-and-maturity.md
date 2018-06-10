@@ -1,3 +1,13 @@
+---
+title: Hours, Cares, and Maturities
+menu: main
+---
+
+**Hours** and **Maturity** replace **Stress** and **Trauma** from core
+_Blades_.
+
+<!--more-->
+
 TODO:
 
 - what does the **Growing up** track do? is it even necessary?
@@ -9,8 +19,6 @@ TODO:
 
 # Idle Hours and Maturity
 
-**Hours** and **Maturity** replace **Stress** and **Trauma** from core
-_Blades_.
 
 There are two kinds of **Hours**: *Idle*, and *Midnight*. They both serve the
 same purpose, but you only start marking **Midnight Hours** when you've used all
@@ -56,7 +64,7 @@ At the end of an adventure, if you haven't cleared your **Idle Hours** track
 from going home, do so.
 
 Leave any marks in your **Midnight Hours** track until you [do a
-chore](chores.md) to earn
+chore](/chores/) to earn
 your caregivers' trust again.
 
 ## Cares

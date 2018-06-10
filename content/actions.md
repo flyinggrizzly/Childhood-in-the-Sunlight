@@ -3,6 +3,11 @@ title: Actions and Attributes
 menu: main
 ---
 
+Actions and Attributes define the things your kid is good at... and where
+they'll need some help from friends.
+
+<!--more-->
+
 | Mind       | Body       | Heart           |
 | ---        | ---        | ---             |
 | Invent     | Scrap      | Share           |

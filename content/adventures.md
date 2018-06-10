@@ -1,6 +1,13 @@
-# Adventure types
+---
+title: Adventures
+menu: main
+---
 
-These will replace the Crew in core blades. At the moment, I'm thinking we might
+These will replace the Crew in core blades.
+
+<!--more-->
+
+At the moment, I'm thinking we might
 have:
 
 - Mystery (think _The Goonies_, _Stranger Things_)

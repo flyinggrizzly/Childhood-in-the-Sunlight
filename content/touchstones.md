@@ -1,3 +1,12 @@
+---
+title: Touchstones
+menu: main
+---
+
+Use these as inspirations for the kind of game this wants to be.
+
+<!--more-->
+
 ## Movies
 
 - Stranger Things
