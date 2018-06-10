@@ -1,3 +1,7 @@
+---
+title: Actions and Attributes
+---
+
 # Actions and Attributes
 
 | Mind       | Body       | Heart           |

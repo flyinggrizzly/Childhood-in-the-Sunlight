@@ -38,7 +38,7 @@ by Free League Games. Thanks guys, it's a magical game.
 *Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 Logo is used with permission.*
 
-![The 'Forged in the Dark' logo](forged_in_the_dark_logo.png)
+![The 'Forged in the Dark' logo](static/images/forged_in_the_dark_logo.png)
 
 All rights reserved, Sean Moran-Richards/Flying Grizzly 2018. (I'll probs be
 more permissive once I've gotten further with it!)
