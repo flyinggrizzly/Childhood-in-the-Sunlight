@@ -1,7 +1,7 @@
-baseURL:  "https://www.flyinggrizzly.io/childhood-in-the-sunlight/"
-languageCode: "en-us"
+baseURL:  'https://www.flyinggrizzly.io/games/childhood-in-the-sunlight/'
+languageCode: 'en-us'
 
-title: "Childhood in the Sunlight"
+title: 'Childhood in the Sunlight'
 
 theme: 'hyde'
 
