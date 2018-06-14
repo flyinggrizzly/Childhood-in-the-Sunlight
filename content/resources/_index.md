@@ -1,7 +1,7 @@
----
-title: Resources
-menu: main
----
++++
+title = "Resources"
+weight = 90
++++
 
 Things you need, or might be useful for play.
 
