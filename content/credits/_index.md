@@ -7,7 +7,10 @@ weight = 100
 *Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 Logo is used with permission.*
 
-![The 'Forged in the Dark' logo]({{ .Site.BaseURL }}/images/forged_in_the_dark_logo.png)
+{{< figure  src="/images/forged_in_the_dark_logo.png"
+            alt="the Forged in the Dark logo"
+            height="100px"
+            link="https://bladesinthedark.com/licensing" >}}
 
 A lot of the foundational ideas that deviate from _Blades_ have come from
 [_Tales from the
