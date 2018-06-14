@@ -1,7 +1,7 @@
----
-title: Touchstones
-menu: main
----
++++
+title = "Touchstones"
+weight = 80
++++
 
 Use these as inspirations for the kind of game this wants to be.
 
