@@ -1,5 +1,6 @@
 baseURL = "https://www.flyinggrizzly.io/childhood-in-the-sunlight"
 publishDir = "public/childhood-in-the-sunlight"
+canonifyURLs = true
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
