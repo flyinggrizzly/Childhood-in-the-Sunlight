@@ -15,7 +15,7 @@ Logo is used with permission.*
 A lot of the foundational ideas that deviate from _Blades_ have come from
 [_Tales from the
 Loop_](https://www.modiphius.net/collections/tales-from-the-loop/products/tales-from-the-loop-rpg-rulebook)
-by Free League Games. Thanks guys, it's a magical game.
+by Free League Games. Thanks folks, it's a magical game.
 
 All rights reserved, Sean Moran-Richards/Flying Grizzly 2018. (I'll probs be
 more permissive once I've gotten further with it!)
