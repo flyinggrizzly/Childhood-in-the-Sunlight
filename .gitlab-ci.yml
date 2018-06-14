@@ -1,0 +1,20 @@
+image: seandmr/ssg:hugo
+
+stages:
+  - deploy
+
+cache:
+  paths:
+    - vendor/ruby
+
+deploy_to_s3_and_cloudfront:
+  stage: deploy
+  only:
+    - publish
+  before_script:
+    - ruby -v
+    - bundle install -j $(nproc) --path vendor
+  script:
+    - bundle exec rake deploy
+
+
