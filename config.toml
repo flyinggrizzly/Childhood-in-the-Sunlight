@@ -1,0 +1,51 @@
+baseURL = "https://www.flyinggrizzly.io/childhood-in-the-sunlight"
+publishDir = "public/childhood-in-the-sunlight"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Childhood in the Sunlight"
+theme = "learn"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
+[params]
+description = "a [*Forged in the Dark*](https://bladesinthedark.com/licensing) game about kids going on adventures with friends, and the bittersweet joy of growing up"
+
+author = "Sean DMR/flying_grizzly"
+disableAssetsBusting = false
+disableInlineCopyToClipBoard = false
+# A title for shortcuts in menu is set by default. Set this to true to disable it.
+disableShortcutsTitle = false
+# When using mulitlingual website, disable the switch language button.
+disableLanguageSwitchingButton = true
+showVisitedLinks = false # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "green" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = true # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "<label>www.flyinggrizzly.io</label>"
+url = "https://flyinggrizzly.io"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<label>Blades in the Dark</label>"
+url = "https://bladesinthedark.com/"
+weight = 20
+
