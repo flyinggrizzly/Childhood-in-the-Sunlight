@@ -7,4 +7,4 @@ Things you need, or might be useful for play.
 
 <!--more-->
 
-- [Playbook draft](/files/playbook-draft.pdf)
+- [Playbook draft]({{ .Site.BaseURL  }}/files/playbook-draft.pdf)
