@@ -1,7 +1,7 @@
-+++
-title = "Adventures"
-weight = 10
-+++
+{
+  "title": "Adventures",
+  "weight": 10
+}
 
 These will replace the Crew in core blades.
 

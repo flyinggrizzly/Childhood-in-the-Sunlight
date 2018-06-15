@@ -1,7 +1,7 @@
-+++
-title = "Actions and Attributes"
-weight = 20
-+++
+{
+  "title": "Actions and Attributes",
+  "weight": 20
+}
 
 Actions and Attributes define the things your kid is good at... and where
 they'll need some help from friends.

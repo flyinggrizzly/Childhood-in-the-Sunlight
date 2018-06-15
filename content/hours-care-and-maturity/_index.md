@@ -1,8 +1,8 @@
-+++
-title = "Hours, Cares, and Maturities"
-weight = 30
-alwaysopen = true
-+++
+{
+  "title": "Hours, Cares, and Maturities",
+  "weight": 30
+  "alwaysopen": true,
+}
 
 **Hours** and **Maturity** replace **Stress** and **Trauma** from core
 _Blades_.
