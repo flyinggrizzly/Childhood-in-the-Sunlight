@@ -1,8 +1,7 @@
-+++
-title = "Credits"
-weight = 100
-+++
-
+{
+  "title": "Credits",
+  "weight": 100
+}
 
 *Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 Logo is used with permission.*
