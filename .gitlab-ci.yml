@@ -1,4 +1,4 @@
-image: seandmr/ssg:hugo
+image: flyinggrizzly/ssg:hugo
 
 stages:
   - deploy
