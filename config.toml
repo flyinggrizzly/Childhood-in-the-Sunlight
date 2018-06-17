@@ -1,4 +1,4 @@
-baseURL = "https://www.flyinggrizzly.net/childhood-in-the-sunlight"
+baseURL = "https://www.flyinggrizzly.net/childhood-in-the-sunlight/"
 publishDir = "public/childhood-in-the-sunlight"
 canonifyURLs = true
 
