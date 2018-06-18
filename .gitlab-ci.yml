@@ -14,7 +14,7 @@ deploy_to_s3_and_cloudfront:
     - publish
   before_script:
     - ruby -v
-    - bundle install -j $(nproc) --path vendor
+    - bundle install -j $(nproc) --path vendor --with ci --without development
   script:
     - bundle exec rake deploy
 
