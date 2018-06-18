@@ -1,3 +1,4 @@
+# CI for publishing to www.flyinggrizzly.net/childhood-in-the-sunlight
 image: flyinggrizzly/ssg:hugo
 
 stages:
