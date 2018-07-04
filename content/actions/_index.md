@@ -15,7 +15,7 @@ they'll need some help from friends.
 | Convince   | Sneak      | Tantrum         |
 | Reasoned\* | Embodied\* | Compassionate\* |
 
-_\* denotes special adjectives gained by taking **maturities**. There is only one dot
+_\* denotes a special adjective gained by taking **maturities**. There is only one dot
 for these. They add a die to resistance rolls in their attribute, and can also
 grant a bonus die whenever it would make sense for the action being performed._
 
@@ -54,7 +54,7 @@ you make your dreams real, though **share** might be better.
 You are getting a little bit wiser. Maybe you're not so quick to jump to
 conclusions, or you have a greater wealth of knowledge after years of reading,
 or you are getting good at recognizing patterns. Whatever it is for you, you get
-an extra d6 on **Mind** resistance rolls, and you can add a bonus die to actions
+an extra die on **Mind** resistance rolls, and you can add a bonus die to actions
 where your cool-headedness is a benefit. This can be for rolls in any attribute,
 not just **Mind**.
 
@@ -63,6 +63,11 @@ not just **Mind**.
 Resist consequences from physical activity.
 
 ### Scrap
+
+When you **scrap** with someone or something, you use your strength, nimbleness,
+and canny to hold your own in a tussle. It might be a showdown in the parking
+lot after school, or getting the drop on some *thing*. You might even scrap to
+break through that fence over there, though **invent** might be better.
 
 ### Scramble
 
