@@ -21,3 +21,6 @@ cloudfront_distribution_config:
 cloudfront_invalidate_root: true
 
 cloudfront_wildcard_invalidation: true
+
+redirects:
+  games: /projects/
