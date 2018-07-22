@@ -1,5 +1,5 @@
 baseURL = "https://www.flyinggrizzly.net/childhood-in-the-sunlight"
-publishDir = "public/childhood-in-the-sunlight"
+publishDir = "public/games/childhood-in-the-sunlight"
 canonifyURLs = true
 
 languageCode = "en-us"
