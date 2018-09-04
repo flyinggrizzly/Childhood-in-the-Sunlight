@@ -12,7 +12,7 @@ they'll need some help from friends.
 | ---        | ---        | ---             |
 | Invent     | Scrap      | Share           |
 | Research   | Scramble   | Dream           |
-| Convince   | Sneak      | Tantrum         |
+| Talk       | Sneak      | Tantrum         |
 | Reasoned\* | Embodied\* | Compassionate\* |
 
 _\* denotes a special adjective gained by taking **maturities**. There is only one dot
@@ -40,13 +40,13 @@ tracks, or that important piece of info you needed to finish an invention. You
 might also do some research by peering through the baddies' windows, though
 **sneak** might be better.
 
-### Convince
+### Talk
 
-When you **convince** someone, you use reason, logic, or maybe appeal to their
+When you **talk** to someone, you use reason, logic, or maybe appeal to their
 weaknesses or prejudices. You might get your parents to let you stay over at a
 friend's house for late-night planning, or get your friends to realize that your
 plan is *awesome*, or Mrs. Greenblatt that your gang *needs* to cut across her
-fields because it's really important. You might also convince someone to help
+fields because it's really important. You might also talk to convince someone to help
 you make your dreams real, though **share** might be better.
 
 ### Reasoned
