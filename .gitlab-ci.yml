@@ -11,7 +11,7 @@ cache:
 deploy_to_s3_and_cloudfront:
   stage: deploy
   only:
-    - publish
+    - master
   before_script:
     - ruby -v
     - bundle install -j $(nproc) --path vendor --with ci --without development
